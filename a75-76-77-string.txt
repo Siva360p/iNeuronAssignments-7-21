@@ -1,0 +1,12 @@
+What string method can be used to convert string into array ?
+
+split function.
+
+What string method can be used to check the occurrence of a specified
+text in a string?
+
+includes function.
+
+How can you break a string to a newline in Javascript ?
+
+Replace space ' ' with '\n'
